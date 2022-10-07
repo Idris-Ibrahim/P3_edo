@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(P3_edo_guide)
+project(p3_edo_guide)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
